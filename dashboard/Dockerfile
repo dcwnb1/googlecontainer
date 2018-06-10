@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1
+FROM gcr.io/heapster-grafana-amd64:v4.4.3
 MAINTAINER 991254788@qq.com
